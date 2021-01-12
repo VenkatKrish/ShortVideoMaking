@@ -1,0 +1,28 @@
+PODS:
+  - lottie-ios (3.1.9)
+  - MarqueeLabel (4.0.5)
+  - RxSwift (5.1.1)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - lottie-ios
+  - MarqueeLabel
+  - RxSwift (~> 5)
+  - SnapKit
+
+SPEC REPOS:
+  trunk:
+    - lottie-ios
+    - MarqueeLabel
+    - RxSwift
+    - SnapKit
+
+SPEC CHECKSUMS:
+  lottie-ios: 3a3758ef5a008e762faec9c9d50a39842f26d124
+  MarqueeLabel: 00cc0bcd087111dca575878b3531af980559707d
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: fa4811ae61682ed2c9f4e081b904600cc93e3f81
+
+COCOAPODS: 1.10.0
